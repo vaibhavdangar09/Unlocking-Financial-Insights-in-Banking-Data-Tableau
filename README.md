@@ -1,5 +1,8 @@
 # Case Study: Unlocking Financial Insights in Banking Data
 
+![financial](https://github.com/vaibhavdangar09/Unlocking-Financial-Insights-in-Banking-Data-Tableau/assets/85430510/f7ae875e-3a2f-45b5-8773-89ed05a941db)
+
+
 # Background
 As a data analyst at FinInsight Group, a consultancy specializing in banking analytics, you are equipped with two comprehensive datasets: 'Banking Transactions' and 'Customer Account Details'. The 'Banking Transactions' dataset records detailed transaction data, including types, amounts, dates, and branch information. The 'Customer Account Details' dataset provides insights into account holders, covering account types, balances, interest rates, credit scores, and loan amounts. Your expertise is crucial in a sector where financial data drives strategic decisions in customer relationship management, risk assessment, and product offerings.
 
