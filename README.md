@@ -1,6 +1,6 @@
 # Case Study: Unlocking Financial Insights in Banking Data
 
-![financial](https://github.com/vaibhavdangar09/Unlocking-Financial-Insights-in-Banking-Data-Tableau/assets/85430510/f7ae875e-3a2f-45b5-8773-89ed05a941db)
+![fin](https://github.com/vaibhavdangar09/Unlocking-Financial-Insights-in-Banking-Data-Tableau/assets/85430510/91378bd1-757a-446e-afa0-98417910290a)
 
 
 # Background
